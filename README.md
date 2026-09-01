@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<img align="right" width="160" src="https://raw.githubusercontent.com/bala143118/bala143118/main/assets/spiderman.gif" alt="spiderman"/>
+<img align="right" width="160" src="https://raw.githubusercontent.com/bala143118/bala143118/main/spiderman.gif" alt="spiderman"/>
 
 <h1>Hi there, I'm Balamurugan S 👋</h1>
 
@@ -10,7 +10,7 @@
 <!-- ================= GITHUB LOGIN BUTTON ================= -->
 <p>
   <a href="https://github.com/bala143118">
-    <img src="https://raw.githubusercontent.com/bala143118/bala143118/main/assets/github_login_animation.svg" width="360" alt="GitHub login animation"/>
+    <img src="https://raw.githubusercontent.com/bala143118/bala143118/main/github_login_animation.svg" width="360" alt="GitHub login animation"/>
   </a>
 </p>
 
@@ -68,24 +68,24 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/bala143118/bala143118/main/assets/cert_hacknext26.jpg">
-        <img src="https://raw.githubusercontent.com/bala143118/bala143118/main/assets/cert_hacknext26.jpg" width="260"/>
+      <a href="https://raw.githubusercontent.com/bala143118/bala143118/main/cert_hacknext26.jpg">
+        <img src="https://raw.githubusercontent.com/bala143118/bala143118/main/cert_hacknext26.jpg" width="260"/>
       </a>
       <br/>
       <b>HACKNEXT'26</b><br/>
       <sub>Cyber Security Domain • SNS College of Technology • 21 Aug 2026</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/bala143118/bala143118/main/assets/cert_nexbuildon.jpg">
-        <img src="https://raw.githubusercontent.com/bala143118/bala143118/main/assets/cert_nexbuildon.jpg" width="260"/>
+      <a href="https://raw.githubusercontent.com/bala143118/bala143118/main/cert_nexbuildon.jpg">
+        <img src="https://raw.githubusercontent.com/bala143118/bala143118/main/cert_nexbuildon.jpg" width="260"/>
       </a>
       <br/>
       <b>NEXBUILDON HACK 2026</b><br/>
       <sub>Anibotix × Sphere Innovators Club • 17 Aug 2026</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/bala143118/bala143118/main/assets/cert_hacksprint26.jpg">
-        <img src="https://raw.githubusercontent.com/bala143118/bala143118/main/assets/cert_hacksprint26.jpg" width="260"/>
+      <a href="https://raw.githubusercontent.com/bala143118/bala143118/main/cert_hacksprint26.jpg">
+        <img src="https://raw.githubusercontent.com/bala143118/bala143118/main/cert_hacksprint26.jpg" width="260"/>
       </a>
       <br/>
       <b>HACKSPRINT'26</b><br/>
