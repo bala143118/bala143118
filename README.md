@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<img align="right" width="160" src="https://raw.githubusercontent.com/bala143118/bala143118/main/spiderman.gif" alt="spiderman"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/bala143118/bala143118/main/spiderman.gif" alt="spiderman"/>
 
 <h1>Hi there, I'm Balamurugan S 👋</h1>
 
